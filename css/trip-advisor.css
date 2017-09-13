@@ -1,0 +1,17 @@
+#trip-advisor, .trip-advisor, div.TA_cdsscrollingravenarrow {
+  background-color: #F5F0FF;
+}
+#trip-advisor {
+  padding-top: 12pt;
+  text-align: center;
+}
+#trip-advisor > div, #trip-advisor > iframe {
+  display: inline-block;
+  margin: auto;
+}
+div.TA_cdsscrollingravenarrow {
+  text-align: center;
+}
+div.TA_cdsscrollingravenarrow > div {
+  margin: auto !important;
+}
